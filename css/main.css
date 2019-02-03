@@ -4,6 +4,11 @@ body {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+img {
+    border-radius: 20px;
+}
+
 .slot {
     width: 640px;
     padding: 20px;
